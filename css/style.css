@@ -1,0 +1,14 @@
+.container{
+    border: 8px solid black;
+}
+.btn{
+color: #090606;
+background-color: red;
+}
+.col{
+    border: 3px solid greenyellow;
+}
+image{
+    height: fit-content;
+    width:fit-content
+}
